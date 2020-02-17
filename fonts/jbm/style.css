@@ -1,0 +1,35 @@
+@font-face {
+	font-family: 'JetBrainsMono';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url('./jbm-r.woff2') format('woff2'),
+		 url('./jbm-r.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'JetBrainsMono';
+	font-style: normal;
+	font-weight: bold;
+	font-display: swap;
+	src: url('./jbm-b.woff2' format('woff2'),
+		 url('./jbm-b.wof2' format('woff');
+}
+
+@font-face {
+	font-family: 'JetBrainsMono';
+	font-style: italic;
+	font-weight: normal;
+	font-display: swap;
+	src: url('./jbm-i.woff2') format('woff2'),
+		 url('./jbm-i.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'JetBrainsMono';
+	font-style: italic;
+	font-weight: bold;
+	font-display: swap;
+	src: url('./jbm-b-i.woff2') format('woff2'),
+		 url('./jbm-b-i.woff') format('woff');
+}
